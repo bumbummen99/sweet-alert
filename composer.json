@@ -1,5 +1,5 @@
 {
-  "name": "uxweb/sweet-alert",
+  "name": "skyraptor/sweet-alert",
   "description": "A simple PHP package to show Sweet Alerts with the Laravel Framework",
   "keywords": [
     "laravel",
@@ -16,8 +16,8 @@
   ],
   "require": {
     "php": ">=7.0",
-    "illuminate/support": "~5.0|^6.0|^7.0",
-    "illuminate/session": "~5.0|^6.0|^7.0"
+    "illuminate/support": "~5.0|^6.0|^7.0|^8.0",
+    "illuminate/session": "~5.0|^6.0|^7.0|^8.0"
   },
   "require-dev": {
     "phpunit/phpunit": "^7.0",
