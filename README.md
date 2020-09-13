@@ -2,9 +2,13 @@
 
 ![A success alert](demos/1XySJiz.png)
 
-[![Latest Version](https://img.shields.io/github/release/bumbummen99/sweet-alert.svg?style=flat-square)](https://github.com/bumbummen99/sweet-alert/releases)
-[![StyleCI](https://styleci.io/repos/294214700/shield)](https://styleci.io/repos/294214700)
-[![Total Downloads](https://img.shields.io/packagist/dt/skyraptor/sweet-alert.svg?style=flat-square)](https://packagist.org/packages/skyraptor/sweet-alert)
+[![Build Status](https://travis-ci.org/bumbummen99/sweet-alert.png?branch=master)](https://travis-ci.org/bumbummen99/sweet-alert)
+[![codecov](https://codecov.io/gh/bumbummen99/sweet-alert/branch/master/graph/badge.svg)](https://codecov.io/gh/bumbummen99/sweet-alert)
+[![StyleCI](https://styleci.io/repos/294214700/shield?branch=master)](https://styleci.io/repos/294214700)
+[![Total Downloads](https://poser.pugx.org/skyraptor/sweet-alert/downloads.png)](https://packagist.org/packages/skyraptor/sweet-alert)
+[![Latest Stable Version](https://poser.pugx.org/skyraptor/shoppingcart/v/stable)](https://packagist.org/packages/skyraptor/sweet-alert)
+[![Latest Unstable Version](https://poser.pugx.org/skyraptor/shoppingcart/v/unstable)](https://packagist.org/packages/skyraptor/sweet-alert)
+[![License](https://poser.pugx.org/skyraptor/sweet-alert/license)](https://packagist.org/packages/skyraptor/sweet-alert)
 
 ## Installation
 
