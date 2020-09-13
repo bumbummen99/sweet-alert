@@ -6,8 +6,8 @@
 [![codecov](https://codecov.io/gh/bumbummen99/sweet-alert/branch/master/graph/badge.svg)](https://codecov.io/gh/bumbummen99/sweet-alert)
 [![StyleCI](https://styleci.io/repos/294214700/shield?branch=master)](https://styleci.io/repos/294214700)
 [![Total Downloads](https://poser.pugx.org/skyraptor/sweet-alert/downloads.png)](https://packagist.org/packages/skyraptor/sweet-alert)
-[![Latest Stable Version](https://poser.pugx.org/skyraptor/shoppingcart/v/stable)](https://packagist.org/packages/skyraptor/sweet-alert)
-[![Latest Unstable Version](https://poser.pugx.org/skyraptor/shoppingcart/v/unstable)](https://packagist.org/packages/skyraptor/sweet-alert)
+[![Latest Stable Version](https://poser.pugx.org/skyraptor/sweet-alert/v/stable)](https://packagist.org/packages/skyraptor/sweet-alert)
+[![Latest Unstable Version](https://poser.pugx.org/skyraptor/sweet-alert/v/unstable)](https://packagist.org/packages/skyraptor/sweet-alert)
 [![License](https://poser.pugx.org/skyraptor/sweet-alert/license)](https://packagist.org/packages/skyraptor/sweet-alert)
 
 ## Installation
@@ -34,7 +34,7 @@ If using Laravel < 5.5 include the service provider and alias within `config/app
 
 ## Installing Frontend Dependencies
 
-This package works only by using the [BEAUTIFUL REPLACEMENT FOR JAVASCRIPT'S "ALERT"](https://sweetalert.js.org/).
+In order for this package to work you will have to include the  [SweetAlert](https://sweetalert.js.org/) JavaScript library and Stylesheets in your frontend.
 
 ### Using a CDN
 
