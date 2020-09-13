@@ -1,20 +1,22 @@
-# Easy Sweet Alert Messages for Laravel
+# Sweet Alert for Laravel
 
 ![A success alert](demos/1XySJiz.png)
 
-[![Latest Version](https://img.shields.io/github/release/uxweb/sweet-alert.svg?style=flat-square)](https://github.com/uxweb/sweet-alert/releases)
-[![StyleCI](https://styleci.io/repos/38935942/shield)](https://styleci.io/repos/38935942)
-[![Total Downloads](https://img.shields.io/packagist/dt/uxweb/sweet-alert.svg?style=flat-square)](https://packagist.org/packages/uxweb/sweet-alert)
+[![Latest Version](https://img.shields.io/github/release/bumbummen99/sweet-alert.svg?style=flat-square)](https://github.com/bumbummen99/sweet-alert/releases)
+[![StyleCI](https://styleci.io/repos/294214700/shield)](https://styleci.io/repos/294214700)
+[![Total Downloads](https://img.shields.io/packagist/dt/skyraptor/sweet-alert.svg?style=flat-square)](https://packagist.org/packages/skyraptor/sweet-alert)
 
 ## Installation
 
-Require the package using Composer.
+You can install the package with [composer](https://getcomposer.org/download/) by using the following command:
 
 ```bash
-composer require uxweb/sweet-alert
+composer require skyraptor/sweet-alert
 ```
 
-If using laravel < 5.5 include the service provider and alias within `config/app.php`.
+### Laravel < 5.5
+
+If using Laravel < 5.5 include the service provider and alias within `config/app.php`.
 
 ```php
 'providers' => [
@@ -26,7 +28,7 @@ If using laravel < 5.5 include the service provider and alias within `config/app
 ];
 ```
 
-## Installing Frontend Dependency
+## Installing Frontend Dependencies
 
 This package works only by using the [BEAUTIFUL REPLACEMENT FOR JAVASCRIPT'S "ALERT"](https://sweetalert.js.org/).
 
